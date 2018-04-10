@@ -183,9 +183,9 @@ Rather than start from scratch, you will begin with a "hello world" project that
 
 1. Use the **File** -> **Save All** command to save all of your changes. Then switch back to the browser and confirm that a table of widgets appears, as shown below.
 
-    ![Widgets dsiplayed by the modified Angular component](Images/widget-tool-static-data.png)
+    ![Widgets displayed by the modified Angular component](Images/widget-tool-static-data.png)
 
-    _Widgets dsiplayed by the modified Angular component_
+    _Widgets displayed by the modified Angular component_
 
 You have now seen how Angular components are defined, how they are declared in a page using custom HTML elements, how HTML templates are attached to them, and how they are styled. Now let's build on that by adding a data model to the Angular component.
 
@@ -274,7 +274,7 @@ In this exercise, you will add an HTML form to the app so users can add widgets 
 	imports: [ BrowserModule, FormsModule ],
 	```
 
-1. The next step is to add a form to the component template. In **app.component.ts**, add the following statements after the ```table``` element:
+1. The next step is to add a form to the component template. In **app.component.html**, add the following statements after the ```table``` element:
 
 	```html
 	<h2>Widget Form</h2>
