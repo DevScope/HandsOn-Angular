@@ -183,9 +183,9 @@ Rather than start from scratch, you will begin with a "hello world" project that
 
 1. Use the **File** -> **Save All** command to save all of your changes. Then switch back to the browser and confirm that a table of widgets appears, as shown below.
 
-    ![Widgets dsiplayed by the modified Angular component](Images/widget-tool-static-data.png)
+    ![Widgets displayed by the modified Angular component](Images/widget-tool-static-data.png)
 
-    _Widgets dsiplayed by the modified Angular component_
+    _Widgets displayed by the modified Angular component_
 
 You have now seen how Angular components are defined, how they are declared in a page using custom HTML elements, how HTML templates are attached to them, and how they are styled. Now let's build on that by adding a data model to the Angular component.
 
