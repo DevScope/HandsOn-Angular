@@ -1013,7 +1013,7 @@ Great job! You have built a CRUD application with Angular and learned a lot abou
 
 ## Summary ##
 
-For more information on Angular, check out [this summary of Angular basics](https://angular.io/docs/ts/latest/quickstart.html) on the Angular Web site, as well as [these Angular tutorials](https://angular.io/docs/ts/latest/tutorial/). Note that Angular is great for building mobile apps, too. The [Angular Mobile Toolkit](https://mobile.angular.io/) makes it easy to build responsive Web apps that work on any device, even when you lack an Internet connection.
+For more information on Angular, check out [this summary of Angular basics](https://angular.io/guide/quickstart) on the Angular Web site, as well as [these Angular tutorials](https://angular.io/tutorial). Note that Angular is great for building mobile apps, too. The [Angular Mobile Toolkit](https://mobile.angular.io/) makes it easy to build responsive Web apps that work on any device, even when you lack an Internet connection.
 
 
 ----
