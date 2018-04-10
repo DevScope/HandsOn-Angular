@@ -274,7 +274,7 @@ In this exercise, you will add an HTML form to the app so users can add widgets 
 	imports: [ BrowserModule, FormsModule ],
 	```
 
-1. The next step is to add a form to the component template. In **app.component.ts**, add the following statements after the ```table``` element:
+1. The next step is to add a form to the component template. In **app.component.html**, add the following statements after the ```table``` element:
 
 	```html
 	<h2>Widget Form</h2>
