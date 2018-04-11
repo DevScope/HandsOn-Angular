@@ -6,9 +6,9 @@
 <a name="Overview"></a>
 ## Overview ##
 
-[Angular](https://angular.io/) is a popular framework for building UI applications. The newest version, which is not backward-compatible with the original version, is referred to as Angular, while the original version is referred to as [AngularJS](https://angularjs.org/). The Angular team recently released version 4 of the framework. This lab is based on that version.
+[Angular](https://angular.io/) is a popular framework for building UI applications. The newest version, which is not backward-compatible with the original version, is referred to as Angular, while the original version is referred to as [AngularJS](https://angularjs.org/). The Angular team recently released version 5 of the framework. This lab is based on that version.
 
-Angular takes a template-driven approach to building UIs. An HTML template is decorated with component elements, directives, and other expressions to bind data models and other entities. The fundamental building block of Angluar apps is the *component*. Components are template-bound to a data model. The template is part of the component's metadata, and the data model is the component instance itself.
+Angular takes a template-driven approach to building UIs. An HTML template is decorated with component elements, directives, and other expressions to bind data models and other entities. The fundamental building block of Angular apps is the *component*. Components are template-bound to a data model. The template is part of the component's metadata, and the data model is the component instance itself.
 
 Composing rich UIs from components is major aspect of Angular programming. Angular partially implements the W3C recommendations for [Web Components](https://www.w3.org/standards/techs/components#w3c_all). As Web Components grow in popularity and browser support increases, Angular will be well positioned to fully support them. In addition to component-driven development, Angular is well known for its rich services architecture, which even includes hierarchical dependency injection. While two-way data binding between the UI and data models is supported in Angular, developers who do not like the two-way pattern can easily avoid it. This lab makes use of ```ngModel``` to perform two-way binding for collecting form data, but does not use two-way binding otherwise.
 
@@ -1013,7 +1013,7 @@ Great job! You have built a CRUD application with Angular and learned a lot abou
 
 ## Summary ##
 
-For more information on Angular, check out [this summary of Angular basics](https://angular.io/docs/ts/latest/quickstart.html) on the Angular Web site, as well as [these Angular tutorials](https://angular.io/docs/ts/latest/tutorial/). Note that Angular is great for building mobile apps, too. The [Angular Mobile Toolkit](https://mobile.angular.io/) makes it easy to build responsive Web apps that work on any device, even when you lack an Internet connection.
+For more information on Angular, check out [this summary of Angular basics](https://angular.io/guide/quickstart) on the Angular Web site, as well as [these Angular tutorials](https://angular.io/tutorial). Note that Angular is great for building mobile apps, too. The [Angular Mobile Toolkit](https://mobile.angular.io/) makes it easy to build responsive Web apps that work on any device, even when you lack an Internet connection.
 
 
 ----
